@@ -1,1 +1,20 @@
-console.log('funciona correctamente')
+// Seleccionar contenido 
+
+// querySelector
+
+
+
+
+
+
+
+
+// querySelectorAll
+
+
+
+
+
+
+
+// getElementById
